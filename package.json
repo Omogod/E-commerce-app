@@ -6,6 +6,7 @@
     "start": "node ./bin/www",
     "serve": "nodemon ./bin/www",
     "test": "jest"
+    "compile": "yarn tsc
   },
   "dependencies": {
     "@types/bcryptjs": "^2.4.2",
